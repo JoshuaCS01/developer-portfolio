@@ -114,7 +114,7 @@ export const BentoGridItem = ({
                 <h1 className="font-display mb-4 tracking-[-0.02em]">About Me</h1>
               </div>
               <div className="space-y-4 break-words text-justify font-sans text-[clamp(0.9375rem,1.4vw,1.1875rem)] font-extralight leading-[1.7] text-neutral-300 hyphens-auto">
-                <p>I am a University of Georgia graduate with a Bachelors of Science in Computer Science. I chose computer science beacause I love creating things and have a strong drive to solve problems.
+                <p>I am a University of Georgia graduate with a Bachelors of Science in Computer Science. I chose computer science because I love creating things and have a strong drive to solve problems.
                   I enjoy working on full-stack applications using Java, TypeScript, React, and REST APIs.
                   I’m always looking for new things to build and ways to improve, and I enjoy turning ideas into applications as I continue growing as a software engineer.
                 </p>
@@ -124,7 +124,7 @@ export const BentoGridItem = ({
                 <p>In my free time I spend a lot of time coding and building personal projects to solve problems I run into.
                   I have made browser extensions to improve my workflow and Discord bots just to mess with my friends.
                   Those projects, while they are small, help me stay creative while improving my coding skills.
-                  When Im not working on personal projects, I am usually playing guitar, watching movies, or playing video games.</p>
+                  When I am not working on personal projects, I am usually playing guitar, watching movies, or playing video games.</p>
               </div>
             </div>
           </div>
