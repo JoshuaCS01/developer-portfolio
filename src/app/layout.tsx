@@ -28,6 +28,12 @@ const syne = localFont({
 export const metadata: Metadata = {
   title: "Joshua's Portfolio",
   description: "A modern portfolio to showcase my experience and skills to anyone looking for a capable developer.",
+
+  metadataBase: new URL("https://joshuacherenfant.com"),
+
+  alternates: {
+    canonical: "/",
+  },
 };
 
 export default function RootLayout({
